@@ -4,9 +4,9 @@
     "occupation": "junior developper",
     "description": "Im a self taught developper that is shifting his career from law to web developping and tech oriented professions",
     "image": "profilepic.jpg",
-    "bio": "As a law graduate,i always wanted to pursue a career in law,but after realising that this was not the future for me,i took my desiny into my own hands and started to learn coding,first by my self,then with the help of frineds,which ultimately led to buying online courses and moving on from there.",
+    "bio": "As a law graduate,i always wanted to pursue a career in law,but after realising that this was not the future for me,i took my desiny into my own hands and started to learn coding,first by my self,then with the help of friends,which ultimately led to buying online courses and moving on from there.",
     "contactmessage": "Hopefuly you found my resume intresting and contained what you are looking for,for further inquery please contact me through the following methods.",
-    "email": "mustapha.malass@gmail.com",
+    "email": "mo2291990@gmail.com",
     "phone": "+961/70795483",
     "address": {
       "street": "abu samra",
@@ -18,23 +18,13 @@
     
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/mustaphovich",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/mustaphovich",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/mustapha-malass-812624a6/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/mustaphovich",
+        "url": "http://instagram.com/mustaphamalass",
         "className": "fa fa-instagram"
       },
       {
@@ -56,7 +46,7 @@
         "school": "Lebanese Univerisy",
         "degree": "law degree",
         "graduated": "2016",
-        "description": "my time in law school has taught alot of people skills."
+        "description": "my time in law school has taught me alot of people skills."
       }
       
     ],
